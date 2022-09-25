@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aoifefox11
+- 👀 I’m interested in illustration, programming, web development and baking!
+- 🌱 I’m currently learning JavaScript
